@@ -28,7 +28,7 @@ $v8limit = 0; // 429 page - rate limited
 $v9limit = 5; // python / curl UA
 $v10limit = 0; // HeadlessChrome UA
 
-echo "<html><body><center><h1 >WW2 Cruisers - Traffic Stats</h1></center>"; // Replace Page Title
+echo "<html><body><center><h1 >Site Traffic Stats</h1></center>"; // Replace Page Title
 $handle = fopen('domain-name-ssl_log','r') or die ('File opening failed'); // Replace log file name
 // assumption is the log file is in the same directory as this program
 
