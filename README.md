@@ -6,6 +6,8 @@ check log format as per lines 2-13
 
 review items reported and limits - lines 19-29
 
+images are tracked by calls to rotate.php. This will need changing if you want to track images
+
 page title - line 31
 
 log file name line 32
