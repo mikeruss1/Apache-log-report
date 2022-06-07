@@ -1,6 +1,6 @@
 # Apache-log-report
 
-php program to analyse apache logs
+php program to analyse apache logs to identify attempted exploits
 
 check log format as per lines 2-13
 
